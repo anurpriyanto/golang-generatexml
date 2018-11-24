@@ -1,0 +1,4 @@
+package: Test/generateXML
+import:
+- package: github.com/beevik/etree.git
+  version: v1.0.1
